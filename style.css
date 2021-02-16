@@ -1,0 +1,27 @@
+body {
+  font-family: Lato, sans-seriff;
+  color: DarkRed;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  background-color: White;
+  background-image: url("https://cdn.wallpapersafari.com/86/22/GB49kZ.jpg");
+}
+
+h1, h2 {
+  font-family: Roboto;
+}
+
+.center {
+  margin-right: 150px;
+  margin-left: 150px;
+  padding: 1em;
+}
+
+img {
+  float: left;
+  width: 200px;
+  padding: 1em;
+}
